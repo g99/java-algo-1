@@ -2,10 +2,9 @@ package hello;
 
 import java.util.Scanner;
 
-public class Hello {
+public class Name33 {
 	public static void main(String[] args) {
-		String hello = "검색어를 입력해주세요";
-		System.out.println(hello);
+		System.out.println("이름이 뭡니까?");
 		Scanner scanner = new Scanner(System.in);
 		String hi = scanner.next();
 		System.out.println(hi);
