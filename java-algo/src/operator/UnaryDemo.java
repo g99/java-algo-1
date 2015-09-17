@@ -1,8 +1,8 @@
 package operator;
 /**
- * @file_name  : UnaryDemo.java
- * @author     : dingo44kr@gmail.com
- * @date       : 2015. 9. 16.
+ * @file_name  : Pskage.java
+ * @author     : g9yong44@gmail.com
+ * @date       : 2015. 9. 17.
  * @story      : 단항연산자 문법
  */
 public class UnaryDemo {

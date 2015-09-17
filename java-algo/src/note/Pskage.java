@@ -1,8 +1,8 @@
 package note;
 /**
  * @file_name  : Pskage.java
- * @author     : dingo44kr@gmail.com
- * @date       : 2015. 9. 15.
+ * @author     : g9yong44@gmail.com
+ * @date       : 2015. 9. 17.
  * @story      : 패키지
  */
 public class Pskage {

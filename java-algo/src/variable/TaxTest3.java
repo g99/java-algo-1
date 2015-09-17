@@ -3,9 +3,9 @@ package variable;
 import java.util.Scanner;
 
 /**
- * @file_name  : TaxTest3.java
- * @author     : dingo44kr@gmail.com
- * @date       : 2015. 9. 16.
+ * @file_name  : Pskage.java
+ * @author     : g9yong44@gmail.com
+ * @date       : 2015. 9. 17.
  * @story      :
  */
 public class TaxTest3 {

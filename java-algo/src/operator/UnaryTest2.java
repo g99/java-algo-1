@@ -1,8 +1,8 @@
 package operator;
 /**
- * @file_name  : UnaryTest2.java
- * @author     : dingo44kr@gmail.com
- * @date       : 2015. 9. 16.
+ * @file_name  : Pskage.java
+ * @author     : g9yong44@gmail.com
+ * @date       : 2015. 9. 17.
  * @story      : [cookbook - java5.0] p.91-2 단항연산자 예제
  */
 public class UnaryTest2 {

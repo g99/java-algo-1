@@ -1,8 +1,8 @@
 package variable;
 /**
- * @file_name  : VariableDemo.java
- * @author     : dingo44kr@gmail.com
- * @date       : 2015. 9. 15.
+ * @file_name  : Pskage.java
+ * @author     : g9yong44@gmail.com
+ * @date       : 2015. 9. 17.
  * @story      : 변수의 정의
  */
 public class VariableDemo {

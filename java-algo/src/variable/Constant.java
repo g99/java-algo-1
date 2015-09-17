@@ -3,9 +3,9 @@ package variable;
 import java.util.Scanner;
 
 /**
- * @file_name  : Constant.java
- * @author     : dingo44kr@gmail.com
- * @date       : 2015. 9. 16.
+ * @file_name  : Pskage.java
+ * @author     : g9yong44@gmail.com
+ * @date       : 2015. 9. 17.
  * @story      : 상수 문법 
  */
 public class Constant {
