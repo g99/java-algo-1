@@ -22,7 +22,7 @@ public class IfTest2 {
 		 */
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("학생 3명의 이름과 평균을 입력해주세요.");
-		String st1, st2, st3;
+		String st1, st2, st3, first = null, second = null, third = null;
 		int sc1, sc2, sc3;
 		System.out.print("학생 1의 이름 : ");
 		st1 = scanner.next();
@@ -41,14 +41,31 @@ public class IfTest2 {
 			System.out.println("다시 입력하세요.");
 		}
 		else if(sc1 > sc2 && sc1 > sc3){
-			System.out.println("1등 : " + st1);
+			System.out.println();
+			if (sc2 > sc3) {
+				first = st1; second = st2; third = st3;
+			}
+			else {
+				first = st1; second = st3; third = st2;	
+			}
 		}
 		else if(sc2 > sc3){
-			System.out.println("1등 : " + st2);
+			
+			if (sc1 > sc3) {
+				first = st2; second = st1; third = st3;	
+			}
+			else {
+				first = st2; second = st3; third = st1;
+			}
 		}
 		else{
-			System.out.println("1등 : " + st3);
+			if (sc1 > sc2) {
+				first = st3; second = st1; third = st2;
+			}
+			else {
+				first = st3; second = st2; third = st1;
+			}
 		}
-		
+		System.out.println("1등 : " + first +"\n" + "2등 : " + second + "\n" + "3등 : " + third);
 	}
 }
