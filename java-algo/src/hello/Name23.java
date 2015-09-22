@@ -8,6 +8,5 @@ public class Name23 {
 		Scanner scanner = new Scanner(System.in);
 		String hi = scanner.next();
 		System.out.println(hi);
-		
 	}
 }
